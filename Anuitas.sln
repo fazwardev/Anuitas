@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32804.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anuitas", "Anuitas.csproj", "{1E16261F-2301-4738-806F-506D18558CA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E16261F-2301-4738-806F-506D18558CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E16261F-2301-4738-806F-506D18558CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E16261F-2301-4738-806F-506D18558CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E16261F-2301-4738-806F-506D18558CA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3FF40A0-ABE2-4585-89E4-502471BC24F5}
+	EndGlobalSection
+EndGlobal
