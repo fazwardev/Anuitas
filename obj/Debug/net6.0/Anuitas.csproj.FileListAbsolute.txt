@@ -1,0 +1,15 @@
+D:\EDITOR\PROJECT\Anuitas\bin\Debug\net6.0\Anuitas.exe
+D:\EDITOR\PROJECT\Anuitas\bin\Debug\net6.0\Anuitas.deps.json
+D:\EDITOR\PROJECT\Anuitas\bin\Debug\net6.0\Anuitas.runtimeconfig.json
+D:\EDITOR\PROJECT\Anuitas\bin\Debug\net6.0\Anuitas.dll
+D:\EDITOR\PROJECT\Anuitas\bin\Debug\net6.0\Anuitas.pdb
+D:\EDITOR\PROJECT\Anuitas\obj\Debug\net6.0\Anuitas.csproj.AssemblyReference.cache
+D:\EDITOR\PROJECT\Anuitas\obj\Debug\net6.0\Anuitas.GeneratedMSBuildEditorConfig.editorconfig
+D:\EDITOR\PROJECT\Anuitas\obj\Debug\net6.0\Anuitas.AssemblyInfoInputs.cache
+D:\EDITOR\PROJECT\Anuitas\obj\Debug\net6.0\Anuitas.AssemblyInfo.cs
+D:\EDITOR\PROJECT\Anuitas\obj\Debug\net6.0\Anuitas.csproj.CoreCompileInputs.cache
+D:\EDITOR\PROJECT\Anuitas\obj\Debug\net6.0\Anuitas.dll
+D:\EDITOR\PROJECT\Anuitas\obj\Debug\net6.0\refint\Anuitas.dll
+D:\EDITOR\PROJECT\Anuitas\obj\Debug\net6.0\Anuitas.pdb
+D:\EDITOR\PROJECT\Anuitas\obj\Debug\net6.0\Anuitas.genruntimeconfig.cache
+D:\EDITOR\PROJECT\Anuitas\obj\Debug\net6.0\ref\Anuitas.dll
